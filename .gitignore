@@ -1,0 +1,6 @@
+test-output/
+*.log
+*.class
+target/
+node_modules/
+.DS_Store
