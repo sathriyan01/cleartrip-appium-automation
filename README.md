@@ -128,13 +128,13 @@ mvn test
 ## 📸 Test Execution Screenshots
 
 ### 🔹 Test Report Summary
-![Test Summary](screenshots/Test-Report.png)
+![Test Summary](screenshots/# Test-Summary.png)
 
 ### 🔹 Test Output (Execution Results)
-![Test Output](screenshots/verifyFlightsPageNavigation.png)
+![Test Output](screenshots/# Test-Report.png)
 
 ### 🔹 Negative Test Scenario
-![Negative Test](screenshots/FlightSearchFailure.png)
+![Negative Test](screenshots/# Negative-TC.png)
 
 ---
 
