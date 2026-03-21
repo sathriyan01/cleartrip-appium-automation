@@ -128,13 +128,13 @@ mvn test
 ## 📸 Test Execution Screenshots
 
 ### 🔹 Test Report Summary
-![Test Summary](screenshots/# Test-Summary.png)
+![Test Summary](screenshots/test-summary.png)
 
-### 🔹 Test Output (Execution Results)
-![Test Output](screenshots/# Test-Report.png)
+### 🔹 Test Output Report
+![Test Report](screenshots/test-report.png)
 
-### 🔹 Negative Test Scenario
-![Negative Test](screenshots/# Negative-TC.png)
+### 🔹 Negative Test Case
+![Negative Test](screenshots/negative-test.png)
 
 ---
 
