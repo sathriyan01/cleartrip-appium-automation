@@ -125,6 +125,32 @@ mvn test
 
 ---
 
+## 📸 Test Execution Screenshots
+
+### 🔹 Overall Test Report
+![Test Report](screenshots/Test-Report.png)
+
+### 🔹 Flight Search Success
+![Flight Search Success](screenshots/FlightSearchSuccess.png)
+
+### 🔹 Flight Search Failure
+![Flight Search Failure](screenshots/FlightSearchFailure.png)
+
+### 🔹 Apply Non-Stop Filter Test
+![Filter Test](screenshots/applyNonStopFilterTest.png)
+
+### 🔹 Flights Page Navigation
+![Navigation](screenshots/flightsPageNavigationTest.png)
+
+### 🔹 Search Without Destination (Negative Test)
+![Negative Test](screenshots/searchWithoutDestination.png)
+
+### 🔹 Select Flight From Results
+![Select Flight](screenshots/selectFlightFromResults.png)
+
+### 🔹 Traveller Section Validation
+![Traveller Section](screenshots/verifyTravellerSection.png)
+
 ## 🔄 Git Workflow
 
 * Initialized repository using Git
