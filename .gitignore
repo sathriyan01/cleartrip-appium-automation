@@ -4,3 +4,5 @@ test-output/
 target/
 node_modules/
 .DS_Store
+*.html
+*.png
